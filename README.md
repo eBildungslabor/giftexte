@@ -1,7 +1,7 @@
 # Texte mit Gifs
 
 Dank [GifLinks](https://github.com/tholman/giflinks) von [Tim Holmann](http://tholman.com/) kannst Du Texte mit Gifs unterlegen. 
-Wenn Du Dein eigenes Projekt erstellen willst, dann remixe dieses Projekt [auf Glitch](https://glitch.com/~willkommensgifs) oder auf [Github](https://github.com/ebildungslabor/giftexte)
+Wenn Du Dein eigenes Projekt erstellen willst, dann remixe dieses Projekt [auf Glitch](https://glitch.com/~willkommensgifs) oder forke es hier auf Github.
 
 ## Anleitung
 

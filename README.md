@@ -5,7 +5,7 @@ Wenn Du Dein eigenes Projekt erstellen willst, dann remixe dieses Projekt [auf G
 
 ## Anleitung
 
-Öffne die index.html Datei und trage Deinen gewünschten Text ein. Immer wenn Du ein Gif zur Untermalung einsetzen willlst, nutzt Du diesen Code.
+Öffne eine der Beispiels-Dateien und trage Deinen gewünschten Text ein. Immer wenn Du ein Gif zur Untermalung einsetzen willlst, nutzt Du diesen Code.
 
 <code><a data-src="LinkZumGif.gif">verlinktes Wort</a></code>
 

@@ -7,7 +7,7 @@ Wenn Du Dein eigenes Projekt erstellen willst, dann remixe dieses Projekt [auf G
 
 Öffne eine der Beispiels-Dateien und trage Deinen gewünschten Text ein. Immer wenn Du ein Gif zur Untermalung einsetzen willlst, nutzt Du diesen Code.
 
-<code><a data-src="LinkZumGif.gif">verlinktes Wort</a></code>
+    <a data-src="LinkZumGif.gif">verlinktes Wort</a>
 
 Gifs findest Du auf [Giphy](https://giphy.com)
 
